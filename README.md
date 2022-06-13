@@ -10,7 +10,6 @@
 - Watching movies and tv-shows
 - Readeading book
 - Play videogames
-- etc.
 
 ## Skills
 - 👨‍💻 JavaScript, React, D3.js
