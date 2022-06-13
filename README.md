@@ -15,7 +15,7 @@
 ## Skills
 - 👨‍💻 JavaScript, React, D3.js
 - ⚙️ Node, Strapi 
-- 👁️ SASS/Scss, CSS
-- 💽 Tailwind Styled Components
+- 👁️ SASS/Scss, CSS, Styled Components
+- 💽 Tailwind, Wordpress
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/trygve-grant-53251b214/)
