@@ -8,12 +8,12 @@
 ## 📅 Hobbies
 - Programming
 - Watching movies and tv-shows
-- Readeading book
+- Reading books
 - Play videogames
 
 ## Skills
-- 👨‍💻 JavaScript, React, D3.js
-- ⚙️ Node, Strapi 
+- 👨‍💻 JavaScript, React, D3.js, Typescript
+- ⚙️ Node, Strapi, Azure, GCP, Boomi
 - 👁️ SASS/Scss, CSS, Styled Components
 - 💽 Tailwind, Wordpress
 
